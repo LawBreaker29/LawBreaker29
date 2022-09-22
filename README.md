@@ -1,8 +1,7 @@
-#### This is NOT my stats, its just a template, if you wanna see my stats, go to my main profile page!
 # <div align="center">Welcome!! 😀</div>  
   
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yourname&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=LawBreaker29&&style=flat-square)  
   
 
 
@@ -22,10 +21,10 @@
 
 ### My Socials  
 <div align="center">
-<a href="https://github.com/yourname" target="_blank">
+<a href="https://github.com/LawBreaker29" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/yourname" target="_blank">
+<a href="https://www.youtube.com/user/29LawBreaker" target="_blank">
  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -34,5 +33,5 @@
 
 
 ### My Language Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=name&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawBreaker29&hide_border=true&layout=compact" align="center" /></div>
 <br />
